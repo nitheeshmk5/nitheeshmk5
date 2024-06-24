@@ -1,5 +1,5 @@
 # 🧑‍💻 About Me:
-Python programmer<br>problem solver<br>Final year student of BSc IT<br>Learning MERN Stack
+Programmer<br>problem solver<br>Final year student of BSc IT<br>MERN Stack
 
 
 ## 🌐 Socials:
