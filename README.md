@@ -37,18 +37,10 @@
 </div>
 
 <br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <a href='https://svgshare.com/s/19sB' ><img src='https://svgshare.com/i/19sB.svg' title='my github snake' /></a>
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡Leetcode Stats ⚡</h2>
 <br>
 <div align=center>
   
