@@ -9,9 +9,9 @@
 <div align="center">
  
  
- 🌱 I’m currently learning **Next js, Docker**
+ 🌱 I’m currently learning **Nuxt js, Docker**
 
-💬 Ask me about **JS , React ...**
+💬 Ask me about **Python ,Vue  ...**
 
  </div>
  
@@ -44,7 +44,7 @@
 <br>
 <div align=center>
   
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/nitheeshmk_?theme=nord&font=Tajawal&ext=heatmap)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/nitheeshmk5?theme=nord&font=Tajawal&ext=heatmap)
 
 </div>
 
